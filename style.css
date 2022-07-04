@@ -1,0 +1,157 @@
+body {
+    background-image: url(./eid\ back\ 3\ \(3\).jpg);
+    background-size: cover;
+    margin: 0px;
+    padding: 0px;
+}
+
+.btn1 {
+    margin-top: 80px;
+    margin-left: 530px;
+
+}
+#camelImage{
+    margin-top: 40px;
+}
+#eid1btn {
+    padding: 20px;
+    width: auto;
+    height: auto;
+    color: rgb(255, 249, 249);
+    font-size: 150px;
+    font-weight: 100;
+    background-color: rgb(255, 0, 0);
+    border-radius: 50px;
+}
+
+.eidtiming1 {
+    text-align: center;
+    margin-top: 80px;
+    margin-left: 530px;
+    padding: 10px;
+    width: 1540px;
+    height: 800px;
+    color: rgb(0, 0, 0);
+    font-size: 150px;
+    line-height: 0.5em;
+    background-color: #fcaf5d;
+    border-radius: 50px;
+
+}
+
+#qurbani1 {
+    margin-top: 70px;
+    margin-left: 340px;
+    padding: 20px;
+    width: auto;
+    height: auto;
+    color: rgb(0, 0, 0);
+    font-size: 120px;
+    font-weight: 100;
+    background-color: rgb(141, 241, 201);
+    border-radius: 50px;
+}
+
+.btn2 {
+    margin-top: 150px;
+    margin-left: 530px;
+
+}
+
+#eid2btn {
+    padding: 20px;
+    width: auto;
+    height: auto;
+    color: rgb(255, 249, 249);
+    font-size: 150px;
+    font-weight: 100;
+    background-color: rgb(255,0,0);
+    border-radius: 50px;
+}
+
+.eidtiming2 {
+    text-align: center;
+    margin-top: 80px;
+    margin-left: 530px;
+    padding: 10px;
+    width: 1540px;
+    height: 800px;
+    color: rgb(0, 0, 0);
+    font-size: 150px;
+    line-height: 0.5em;
+    background-color: #fcaf5d;
+    border-radius: 50px;
+
+}
+
+#qurbani2 {
+    margin-top: 80px;
+    margin-left: 240px;
+    padding: 20px;
+    width: auto;
+    height: auto;
+    color: rgb(0,0,0);
+    font-size: 100px;
+    font-weight: 100;
+    background-color: rgb(141, 241, 201);
+    border-radius: 50px;
+}
+
+.btn3 {
+    margin-top: 150px;
+    margin-left: 530px;
+
+}
+
+#eid3btn {
+    padding: 20px;
+    width: auto;
+    height: auto;
+    color: rgb(255, 249, 249);
+    font-size: 150px;
+    font-weight: 100;
+    background-color: rgb(255,0,0);
+    border-radius: 50px;
+}
+
+.eidtiming3 {
+    text-align: center;
+    margin-top: 80px;
+    margin-left: 530px;
+    padding: 10px;
+    width: 1540px;
+    height: 800px;
+    color: rgb(0, 0, 0);
+    font-size: 150px;
+    line-height: 0.5em;
+    background-color: #fcaf5d;
+    border-radius: 50px;
+
+}
+
+#qurbani3 {
+    margin-top: 80px;
+    margin-left: 345px;
+    padding: 20px;
+    width: auto;
+    height: auto;
+    color: rgb(0,0,0);
+    font-size: 110px;
+    font-weight: 100;
+    background-color: rgb(141, 241, 201);
+    border-radius: 50px;
+}
+
+#message {
+    text-align: center;
+    margin-top: 220px;
+    /* margin-left: 200px; */
+    padding: 20px;
+    width: 3500px;
+    height: auto;
+    color: rgb(0, 0, 0);
+    font-size: 120px;
+    /* font-weight: 100; */
+    background-color: #f1f0f0;
+    border-radius: 50px;
+}
