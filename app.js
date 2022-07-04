@@ -74,5 +74,5 @@ var minute2 = new Date("Sat, July 11 2022 17:00:00").getTime();
 var minute3 = new Date().getTime();
 var minus3 = minute2 - minute3;
 var round3 = Math.round(minus3 / (1000 * 60 * 60));
-minute.innerHTML = "The Third Day Of Eid ul Adha After" + "<b>" + " 5:00 PM" + "</b>" + " you" + "<b>" + " Can't " + "</b>" + "Qurbani";
+minute.innerHTML = "The Third Day Of Eid ul Adha After " + "<b>" + " SUNSET" + "</b>" + " You" + "<b>" + " Can't " + "</b>" + "Qurbani";
   // eid-3-day
